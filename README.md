@@ -103,13 +103,6 @@ The app uses CSS custom properties and modular CSS files. You can easily customi
 - Add new expense categories in `src/types/expense.ts`
 - Modify the summary calculations in `src/utils/expenseUtils.ts`
 
-## 📱 Responsive Design
-
-The application is fully responsive and optimized for:
-- Desktop computers
-- Tablets
-- Mobile phones
-
 ## 🔐 Data Privacy
 
 All expense data is stored locally in your browser's localStorage. No data is sent to external servers, ensuring your financial information remains private and secure.
@@ -122,25 +115,5 @@ All expense data is stored locally in your browser's localStorage. No data is se
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📄 License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
 
-## 🚀 Future Enhancements
-
-- [ ] Data export to PDF
-- [ ] Expense analytics and trends
-- [ ] Budget setting and alerts
-- [ ] Recurring expense templates
-- [ ] Multiple currency support
-- [ ] Dark mode theme
-- [ ] Expense search functionality
-- [ ] Data backup and restore
-
-## 📞 Support
-
-If you have any questions or need help, please open an issue in the GitHub repository.
-
----
-
-Built with ❤️ using React, TypeScript, and Vite.
